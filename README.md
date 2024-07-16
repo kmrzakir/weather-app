@@ -7,6 +7,7 @@ This is a simple weather app built using Kotlin for Android. It uses Retrofit fo
 3 -> Uses Retrofit for efficient network calls.
 4 ->Includes Lottie animations for enhanced user experience.
 
-Libraries Used
+## Libraries Used
 [Retrofit](https://square.github.io/retrofit/)  - A type-safe HTTP client for Android and Java.
-Lottie - A library for rendering animations.
+
+[Lottie](https://airbnb.design/lottie/)  - A library for rendering animations.
