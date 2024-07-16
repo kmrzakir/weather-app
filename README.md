@@ -3,7 +3,6 @@ This is a simple weather app built using Kotlin for Android. It uses Retrofit fo
 
 ## Screenshots
 ![Screenshot 2024-07-16 121336](https://github.com/user-attachments/assets/c6aa555a-2f08-42cb-9790-6d32e48144bd)
-https://github.com/user-attachments/assets/ef8fe8fd-389b-456e-92b8-45dfdaac62ad
 
 ## Features
 1-> Displays current weather information.
