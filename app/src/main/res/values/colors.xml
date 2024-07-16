@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //bg color for main activity
+    <color name="bg_mainactivity_color">#C4DFE8</color>
+    <color name="background">#ADD8E6</color>
+    //bg color for splash screen
+    <color name="bg_splashscreen_cover">#4682B4</color>
+    <color name="transparent">#99ADD8E6</color>
+</resources>
