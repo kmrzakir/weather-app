@@ -13,4 +13,4 @@ This is a simple weather app built using Kotlin for Android. It uses Retrofit fo
 ## Libraries Used
 [Retrofit](https://square.github.io/retrofit/)  - A type-safe HTTP client for Android and Java.
 
-[Lottie](https://airbnb.design/lottie/)  - A library for rendering animations.
+[Lottie](https://lottiefiles.com/)  - A library for rendering animations.
