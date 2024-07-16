@@ -1,6 +1,8 @@
 # Weather App
 This is a simple weather app built using Kotlin for Android. It uses Retrofit for network requests and Lottie animations for a smooth user interface experience.
 
+## Screenshots
+
 ## Features
 1-> Displays current weather information.
 
